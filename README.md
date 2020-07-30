@@ -163,7 +163,7 @@ discovery_password: password
 ## Contributing 
 
 This project uses [DCO](https://developercertificate.org/). Be sure to sign off
-your commits using the `-s` flag or adding `Signed-off-By: Name<Email>` in the
+your commits using the `-s` flag or adding `Signed-off-By: Name <Email>` in the
 commit message.
 
 **Example**
